@@ -10,3 +10,13 @@ eatx_full/resources/nvidia-gtx980/inventor/OldVersions/
 eatx_full/OldVersions/
 
 eatx_full/resources/powersupply/OldVersions/
+
+eatx_slim/OldVersions/
+
+eatx_slim/parts/OldVersions/
+
+eatx_full/resources/fan80/OldVersions/
+
+eatx_full/resources/motherboard/OldVersions/
+
+*.ipj
